@@ -1,6 +1,9 @@
-# node-unzip-2
+# @julien-f/unzip
 
-Streaming cross-platform unzip tool written in node.js. 
+**Fork of https://github.com/glebdmitriew/node-unzip-2** with the following fixes:
+- [Fix entry.size EvanOxfeld/node-unzip#37](https://github.com/zauberlabs/node-unzip/commit/3ab6682f884574f9ceb99587b7537b4b4421c689)
+
+Streaming cross-platform unzip tool written in node.js.
 It is an improved version of [Evan Oxfeld's node-unzip](https://github.com/isaacs/node-tar), which supports unzipping for files with a "STORE" compression (uncompressed files).
 
 Unzip provides simple APIs similar to [node-tar](https://github.com/isaacs/node-tar) for parsing and extracting zip files.
