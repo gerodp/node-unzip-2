@@ -1,4 +1,4 @@
-# @julien-f/unzip
+# julien-f-unzip
 
 **Fork of https://github.com/glebdmitriew/node-unzip-2** with the following fixes:
 - [Fix entry.size EvanOxfeld/node-unzip#37](https://github.com/zauberlabs/node-unzip/commit/3ab6682f884574f9ceb99587b7537b4b4421c689)
